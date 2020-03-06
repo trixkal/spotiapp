@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "hunter-fa7a4": {
+      "hosting": {
+        "spotiapp": [
+          "hunter-fa7a4"
+        ]
+      }
+    }
+  }
+}
